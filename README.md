@@ -46,7 +46,7 @@ npm run dev
 ## 🌐 Deployment
 
 This project is deployed on [Vercel](https://vercel.com/) —  
-🔗 [Live Link](https://qasimrokeeb-smart-note-analyzer.vercel.app/)
+🔗 [Live Link](https://smart-note-analyzer.vercel.app/)
 
 ---
 
